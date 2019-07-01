@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: lightgray;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    background-color: black;
+    }
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 18pt;
+    
+}
+
+
